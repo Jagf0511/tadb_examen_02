@@ -1,0 +1,5 @@
+# Ignorar archivos de Word y sus plantillas
+*.doc
+*.docx
+*.dot
+*.dotx
